@@ -2,12 +2,12 @@
 
 - **Fetches list of NORMAL transactions for a user (GET Request)**
 
-    The api endpoint is: 
+    The api endpoint is: ```api/v1/user/transactions/userAddress```
     > <localhost/domain_name>/api/v1/user/transactions/userAddress
 
 - **Fetches the total expenses and current ether price for a user (GET Request)**
 
-    The api endpoint is: 
+    The api endpoint is: ```api/v1/user/expenses/userAddress```
     > <localhost/domain_name>/api/v1/user/expenses/userAddress
 
 ### Setting up the project locally

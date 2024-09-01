@@ -1,3 +1,15 @@
+### Testing APIs
+
+- Fetches list of NORMAL transactions for a user (GET)
+
+    The api endpoint is: 
+        <localhost/domain_name>/api/v1/user/transactions/userAddress
+
+- Fetches the total expenses and current ether price for a user (GET)
+
+    The api endpoint is: 
+        <localhost/domain_name>/api/v1/user/expenses/userAddress
+
 ### Setup the project
 
 - In the root directory create a `.env` file:

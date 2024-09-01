@@ -31,3 +31,7 @@
   ```
       MONGO_URL="mongodb://127.0.0.1:27017/database_name"
   ```
+
+- Add the Etherscan api key to the API_KEY variable
+
+- Add the api string for fetching current ethereum price to ETHEREUM_PRICE_URL variable
